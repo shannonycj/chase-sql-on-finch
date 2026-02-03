@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 data/
+# !data/
+# !data/bird/
+# !data/bird/*/
+# !data/bird/*/database_description/
+# !data/bird/*/database_description/**
+
 config/
 llm/
 # C extensions
